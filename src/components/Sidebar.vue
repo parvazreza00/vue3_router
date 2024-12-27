@@ -13,6 +13,9 @@
   <div>
     <router-link :to="{name:'blog'}">Blog</router-link>
   </div>
+  <div>
+    <router-link :to="{name:'movie'}">Movie</router-link>
+  </div>
 </template>
 
 <style scoped></style>

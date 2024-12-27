@@ -1,0 +1,25 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Avatar",
+        "year": 2009,
+        "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeB0FiDx_abePMtpz5d6IWjAOJ_IO-qE7tsA&s"
+      },
+      {
+        "id": 2,
+        "title": "I Am Legend",
+        "year": 2007,
+        "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqjkkvHKpeAItsy7u5ZxQVkJ-s698VX9xANviIb66_wuZpn3xnmgab_wxqgiOWLyInZeA&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "title": "I Lion king",
+        "year": 2000,
+        "Poster": "https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg"
+      }
+        
+        
+    ]
+  }
+  

@@ -7,6 +7,7 @@ import { createRouter, createWebHistory } from "vue-router";
 
 const About = () => import("../components/About.vue");
 const Contact = () => import("../components/Contact.vue");
+const Movie = () => import("../components/Movie.vue");
 
 
 const routers = [
@@ -37,6 +38,11 @@ const routers = [
             right: ()=> import("../components/RightSideBar.vue")
         },
         name:"blog"
+    },
+    {
+        path: "/movie",
+        component: Movie,
+        name:"movie"
     },
 ];
 
